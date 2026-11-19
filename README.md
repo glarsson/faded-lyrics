@@ -20,7 +20,7 @@ NVENC is used when available; otherwise libx264. CPU int8 Whisper is the default
 ## Install
 
 ```bash
-git clone https://github.com/<you>/faded-lyrics-on-background-with-eq.git
+git clone https://github.com/glarsson/faded-lyrics-on-background-with-eq.git
 cd faded-lyrics-on-background-with-eq
 python -m venv .venv
 # Windows: .venv\Scripts\activate
