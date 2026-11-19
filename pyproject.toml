@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "faded_lyrics"
+version = "0.1.0"
+description = "Still background + bottom showwaves + Whisper-timed fade lyrics"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "faded-lyrics contributors" }]
+dependencies = [
+  "faster-whisper>=1.0.0",
+  "numpy>=1.24",
+  "Pillow>=10.0",
+]
+
+[project.optional-dependencies]
+openai = ["openai-whisper"]
+
+[project.scripts]
+faded-lyrics = "faded_lyrics.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
