@@ -1,5 +1,8 @@
 # faded-lyrics
 
+<img width="2393" height="1343" alt="{2257179E-5633-4A90-A808-CABD8BD60471}" src="https://github.com/user-attachments/assets/a895cc4b-4640-4311-ad5b-f10cb4b31906" />
+
+
 Turn a **still background image** and an **audio track** into a lyric video: https://youtu.be/u99B8Z-E__0?t=38
 
 - loops the picture to the track length
