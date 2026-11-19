@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# Still-plate lyric video: background picture + bottom ffmpeg showwaves +
-# Whisper-timed pop/fade lyrics.
+# faded-lyrics: still background + bottom ffmpeg showwaves + Whisper fade lyrics.
 #
 # Usage:
 #   ./run_eq_with_lyrics.sh <picture.png> <track.mp3|wav> [lyrics.txt]

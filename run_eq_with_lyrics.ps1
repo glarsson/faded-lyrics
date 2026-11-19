@@ -1,5 +1,4 @@
-# Still-plate lyric video: background picture + bottom ffmpeg showwaves +
-# Whisper-timed pop/fade lyrics.
+# faded-lyrics: still background + bottom ffmpeg showwaves + Whisper fade lyrics.
 #
 # Usage:
 #   .\run_eq_with_lyrics.ps1 <picture.png> <track.mp3|wav> [lyrics.txt]

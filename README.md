@@ -1,4 +1,4 @@
-# faded-lyrics-on-background-with-eq
+# faded-lyrics
 
 Turn a **still background image** and an **audio track** into a lyric video:
 
@@ -20,8 +20,8 @@ NVENC is used when available; otherwise libx264. CPU int8 Whisper is the default
 ## Install
 
 ```bash
-git clone https://github.com/glarsson/faded-lyrics-on-background-with-eq.git
-cd faded-lyrics-on-background-with-eq
+git clone https://github.com/glarsson/faded-lyrics.git
+cd faded-lyrics
 python -m venv .venv
 # Windows: .venv\Scripts\activate
 # Unix:    source .venv/bin/activate

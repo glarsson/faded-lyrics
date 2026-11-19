@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "faded_lyrics"
+name = "faded-lyrics"
 version = "0.1.0"
 description = "Still background + bottom showwaves + Whisper-timed fade lyrics"
 readme = "README.md"
