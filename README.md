@@ -1,6 +1,6 @@
 # faded-lyrics
 
-Turn a **still background image** and an **audio track** into a lyric video:
+Turn a **still background image** and an **audio track** into a lyric video: https://youtu.be/u99B8Z-E__0?t=38
 
 - loops the picture to the track length
 - draws a neon `ffmpeg showwaves` strip along the bottom
